@@ -1,9 +1,6 @@
 # TodoItems
-Learning WebAPI using C# .NET 
-
-
 A simple application to practice Web API using C# .NET. 
-Using HTTP methods to interact with data using in-memory database
+Using HTTP methods to interact with data using in-memory database to save POST data. 
 
 HTTP Methods: </br>
         `// GET: api/TodoItems`</br>
